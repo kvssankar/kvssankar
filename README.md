@@ -9,6 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kvssankar&label=Profile%20views&color=0e75b6&style=flat" alt="kvssankar" /> </p>  
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kvssankar" alt="kvssankar" /></a> </p>  
+<img align="right" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" width="500"> 
   
 - 🔭 I’m currently working on [ClubHouse](https://github.com/kvssankar/ClubHouse4.0)  
   
@@ -35,7 +36,7 @@
 
 <p>
 
-![Sankar's github stats](https://github-readme-stats.vercel.app/api?username=kvssankar&show_icons=true&hide_border=true)<img align="right" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" width="500"> 
+![Sankar's github stats](https://github-readme-stats.vercel.app/api?username=kvssankar&show_icons=true&hide_border=true)
 </p>
 
 
