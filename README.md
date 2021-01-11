@@ -1,10 +1,8 @@
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
-</div>
+
 
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">,  I'm Sankar kvs
-<h3 align="center">I am Full Stack Mern Developer leaning towards Competitive Programming</h3>  
+<h3 >I am Full Stack Mern Developer leaning towards Competitive Programming</h3>  
   
 
   
