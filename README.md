@@ -6,10 +6,7 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">,  I'm Sankar kvs
 <h3 align="center">I am Full Stack Mern Developer leaning towards Competitive Programming</h3>  
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kvssankar&label=Profile%20views&color=0e75b6&style=flat" alt="kvssankar" /> </p>  
-  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kvssankar" alt="kvssankar" /></a> </p>  
-<img align="right" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" width="500"> 
+
   
 - 🔭 I’m currently working on [ClubHouse](https://github.com/kvssankar/ClubHouse4.0)  
   
