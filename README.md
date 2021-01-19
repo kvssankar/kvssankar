@@ -19,7 +19,7 @@
   
 - 🤝 I’m looking for help with [Terraform AWS](https://github.com/Vishnukvsvk/Terraform-Aws-ServerDeployment)  
   
-- 👨‍💻 All of my projects are available at [https://meet-sankar.herokuapp.com/](https://meet-sankar.herokuapp.com/)  
+- 👨‍💻 All of my projects are available at [itsmesankar](https://itsmesankar.herokuapp.com/)  
   
 - 💬 Ask me about **react, nodejs, aws, terraform**  
   
