@@ -39,11 +39,11 @@
 ![Sankar's github stats](https://github-readme-stats.vercel.app/api?username=kvssankar&show_icons=true&hide_border=true)
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kvssankar&show_icons=true&locale=en&layout=compact" alt="kvssankar" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kvssankar&show_icons=true&locale=en&layout=compact" alt="kvssankar" />\
 
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kvssankar&" alt="kvssankar" /> -->
 
-<br/>
+
 
 
 # Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
