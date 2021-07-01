@@ -41,7 +41,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kvssankar&show_icons=true&locale=en&layout=compact" alt="kvssankar" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kvssankar&" alt="kvssankar" />
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kvssankar&" alt="kvssankar" /> -->
 
 
 # Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
