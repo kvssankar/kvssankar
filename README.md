@@ -15,8 +15,6 @@
   
 - 🌱 I’m currently learning **Competitive Programming in C++**  
   
-- 👯 I’m looking to collaborate on [ClickHouse](https://github.com/ClickHouse/ClickHouse)  
-  
 - 🤝 I’m looking for help with [Terraform AWS](https://github.com/Vishnukvsvk/Terraform-Aws-ServerDeployment)  
   
 - 👨‍💻 All of my projects are available at [itsmesankar](https://itsmesankar.herokuapp.com/)  
