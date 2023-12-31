@@ -6,7 +6,7 @@
 
 ### Hi there, I'm Sankar Kvs 👋
 
-🏢 I'm currently working at **Fidelity Investments** as a **Software Development Engineer**.
+🏢 I'm currently working at **Fidelity Investments** as a **SDE 1**.
 
 🌱 **What I'm Focused On:**
 
