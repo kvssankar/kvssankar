@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kvssankar&label=Profile%20views&color=0e75b6&style=flat" alt="kvssankar" /> </p>  
 </div>
 
 
