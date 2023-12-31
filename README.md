@@ -10,8 +10,8 @@
 
 🌱 **What I'm Focused On:**
 
- -   Building aistorebot.com - Custom ChatGPT for ecommerce
- -   Co-founder of quickrefer.in - Request and Give Referrals!
+ -   Building [aistorebot.com](aistorebot.com) - Custom ChatGPT for ecommerce
+ -   Co-founder of [quickrefer.in](quickrefer.in) - Request and Give Referrals!
  -   Building robust solutions using AWS technologies.
  -   Constantly learning and improving my skills in cloud computing and software development.
 
